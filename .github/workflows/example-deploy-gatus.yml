@@ -12,7 +12,7 @@ env:
 
   ECS_GATUS_SERVICE:
   GATUS_TASK_DEFINITION:
-  GATUS_URL: "??? ${{ secrets.ALB_ENDPOINT }} ???"
+  GATUS_URL: "lks-oss-lb-180537770.us-east-1.elb.amazonaws.com"
 # FILL THE MISSING VALUES ABOVE
 
 permissions:
