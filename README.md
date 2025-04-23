@@ -1,8 +1,8 @@
 # OSS Project Management
 
-Name: <fill-this-with-your-name>
+Name: MH. Choirul Anam
 <br>
-City: <fill-this-with-your-city>
+City: SURABAYA
 
 ## Getting Started
 
